@@ -1,0 +1,27 @@
+email,ticker,Average Closing Price,Percentage Change,Highest Price,Lowest Price,Highest Price Date,Lowest Price Date
+aisyah@gmail.com,1155.kl,"Ticker
+1155.KL    10.14
+dtype: float64","Ticker
+1155.KL    0.6
+dtype: float64","Ticker
+1155.KL    10.22
+dtype: float64","Ticker
+1155.KL    10.08
+dtype: float64","Ticker
+1155.KL   2024-12-05
+dtype: datetime64[ns]","Ticker
+1155.KL   2024-12-02
+dtype: datetime64[ns]"
+su@gmail.com,AAPL,"Ticker
+AAPL    221.75
+dtype: float64","Ticker
+AAPL   -0.12
+dtype: float64","Ticker
+AAPL    222.770004
+dtype: float64","Ticker
+AAPL    220.110001
+dtype: float64","Ticker
+AAPL   2024-09-03
+dtype: datetime64[ns]","Ticker
+AAPL   2024-09-10
+dtype: datetime64[ns]"
